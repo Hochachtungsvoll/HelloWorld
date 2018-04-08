@@ -6,7 +6,7 @@ public class ForSchleife2 {
         for (int i = 1; i <=5; i++) {
             for (int j = 1; j <= i; j++) {
 
-            System.out.println("ha");
+            System.out.println("*");
             }
             System.out.println();
         }
